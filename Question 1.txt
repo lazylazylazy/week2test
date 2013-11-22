@@ -1,2 +1,2 @@
 Question 1
-Explain what git clone does, in your own words
+Git clone is a process that allows a local user to copy an online repository (files, data etc) into a local one. Giving them the ability to modify the files contained within it without changing the data stored online.
