@@ -1,2 +1,4 @@
 Question 2
-Explain what the 'upstream' remote is usually used for, in your own words.
+
+Upstream remote - is used after forking a repository from github. 
+Forking clones a repository that you do not have write access to, upstream allows you to pull from the original repository (incase of updates) while still working on your local copy of the forked repository.
