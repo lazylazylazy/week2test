@@ -1,2 +1,3 @@
 Question 3
-Explain what a branch is, in your own words.
+
+A branch in git is the creation of a parallel series of changes, that do not change the original or 'master' copy of code.  This can be used to work on fixing bugs or adding features.  This is a way of managing projects between collaborators and/or keep code live while changing things.  Allowing everyone to work on the same code base without stepping on each other's toes. The changes to a branch and it's commit history can then be merged back to the master once finished. 
